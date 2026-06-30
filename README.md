@@ -70,6 +70,7 @@ The following test cases were verified:
 
 
 ## Simulation Waveform
+<img width="1285" height="603" alt="Screenshot 2026-06-30 132941" src="https://github.com/user-attachments/assets/e60371b3-1e7e-4e4d-9d33-e6f00f5a5952" />
 
 
 
