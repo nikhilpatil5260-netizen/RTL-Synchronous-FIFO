@@ -73,20 +73,5 @@ The following test cases were verified:
 <img width="1285" height="603" alt="Screenshot 2026-06-30 132941" src="https://github.com/user-attachments/assets/e60371b3-1e7e-4e4d-9d33-e6f00f5a5952" />
 
 
-
-## Future Improvements
-
-- Asynchronous FIFO
-- SystemVerilog Assertions
-- Functional Coverage
-- UVM Testbench
-- AXI-Stream FIFO Interface
-
-
-## Author
-
-**Nikhil Patil**
-
-Electronics and Communication Engineering
-
-Bangalore Institute of Technology
+## Block diagram
+<img width="1536" height="1024" alt="block_diagram" src="https://github.com/user-attachments/assets/38e680e8-1f85-42c5-b02c-9ffc59aab2da" />
